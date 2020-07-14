@@ -6,10 +6,10 @@
 <h2 align ="center">Course Number: CSE 465<br>
 Course Name: Pattern Recognition
 Section:16</br>
-Semester: Summer 2019</br><br>
+Semester: Spring 2020</br><br>
 Faculty Name: Dr. Nabeel Mohammed</h3>
 
-<p>Group Members:</p> 
+<p>Group Members:</p>
 <ul>
 <li>Sayeed Md. Shaiban</li>
 <li>Abdullah Md. Sarwar</li>
