@@ -1,3 +1,6 @@
+
+<p style="color:red">This repo is currently on the work and not finished yet</p>
+
 <p align="center">
   <img width="250" height="280" src="images/nsulogo.png">
 </p>                                        
@@ -19,3 +22,8 @@ Faculty Name: Dr. Nabeel Mohammed</h3>
 <br>
 
 <p>Abstract—Summarization  has  long  been  a  significant  area  of concern in the field of Natural Language Processing, mostly due to  the  its  dependency  on  human  intervention.  In  this  study,  we use  a  denoising  autoencoder,  BART,  to  carry  out  abstractive summarization on the dataset of COVID-19, using ROUGE scores as an evaluation metric. The primary focus of the study has been the  use  of  medical  articles  based  on  COVID-19,  which  is  aimed to provide a significant support for the research purpose during the  pandemic.</p>
+
+<p>Inference Architecture:</p>
+<p align="center">
+  <img src="images/cse465.png">
+</p>  
