@@ -8,7 +8,7 @@
 <h2 align="center">Project Name: Text Summarization on COVID-19 Articles</h2>
 <h2 align ="center">Course Number: CSE 465<br>
 Course Name: Pattern Recognition
-Section:16</br>
+Section:2</br>
 Semester: Spring 2020</br><br>
 Faculty Name: Dr. Nabeel Mohammed</h3>
 
@@ -27,3 +27,9 @@ Faculty Name: Dr. Nabeel Mohammed</h3>
 <p align="center">
   <img src="images/cse465.png">
 </p>  
+
+<p>Example of the Input text (Body), Target (Abstract) and machine generated summary </p>
+<p align="center">
+  <img src="images/summary.png">
+</p> 
+
