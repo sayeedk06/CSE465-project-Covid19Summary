@@ -47,6 +47,34 @@ Faculty Name: Dr. Nabeel Mohammed</h3>
 	<img src="images/train_res.PNG">
 </p>
 
+
+<p> ROUGE score of our generated summary
+for unigram and bigram compared to reference summary (Abstract): </p>
+<p align="center">
+	<img src="images/table1.JPG">
+</p>
+
+<p>ROUGE score of our generated summary
+of Rouge-L and Rouge-W compared to reference summary (Abstract): </p>
+<p align="center">
+	<img src="images/table2.JPG">
+</p>
+
+
+<p>ROUGE score of our generated summary
+for unigram and bigram compared to human written summary: </p>
+<p align="center">
+	<img src="images/table3.JPG">
+</p>
+
+
+<p>ROUGE score of Rouge-L and Rouge-W of our generated summary compared to human written summary: </p>
+<p align="center">
+	<img src="images/table4.JPG">
+</p>
+
+
+
 <p>Example of the Input text (Body), Target (Abstract) and machine generated summary:  </p>
 <p align="center">
   <img src="images/summary.PNG">
